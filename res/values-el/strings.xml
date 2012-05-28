@@ -162,4 +162,29 @@
     <string name="preferences_interface_general_title">Γενικά</string>
     <string name="preferences_interface_general_orientation_title">Αυτόματη περιστροφή οθόνης</string>
 
+    <string name="preferences_interface_drawer_scrolling_fade_adjacent_screens_title">Απόσβεση ολισθαίνων σελίδων</string>
+    <string name="menu">Μενού</string>
+    <string name="cancel_target_label">Άκυρο</string>
+    <string name="menu_preferences">Ρυθμίσεις Trebuchet</string>
+    <string name="preferences_interface_homescreen_general_grid_title">Μέγεθος πλέγματος</string>
+    <string name="preferences_interface_homescreen_general_grid_summary">Επιλέξτε τον αριθμό γραμμών/στηλών στην αρχική οθόνη</string>
+    <string name="preferences_interface_homescreen_general_grid_rows_title">Γραμμές</string>
+    <string name="preferences_interface_homescreen_general_grid_columns_title">Στήλες</string>
+    <string name="preferences_interface_homescreen_general_screen_padding_vertical_summary">Έξτρα κάθετο διάστημα στην αρχική οθόνη</string>
+    <string name="preferences_interface_homescreen_general_screen_padding_vertical_title">Κάθετο περιθώριο</string>
+    <string name="preferences_interface_homescreen_general_screen_padding_horizontal_title">Οριζόντιο περιθώριο</string>
+    <string name="preferences_interface_homescreen_general_screen_padding_horizontal_summary">Έξτρα οριζόντιο διάστημα στην αρχική οθόνη</string>
+    <string name="preferences_interface_homescreen_general_hide_icon_labels_title">Απόκρυψη ετικετών εικονιδίων</string>
+    <string name="preferences_interface_homescreen_general_hide_icon_labels_summary">Απόκρυψη ετικετών στα εικονίδια της αρχικής οθόνης</string>
+    <string name="preferences_interface_homescreen_scrolling_transition_effect_title">Εφέ μετάβασης</string>
+    <string name="preferences_interface_homescreen_scrolling_transition_effect_summary">Εφέ μετάβασης σελίδων της αρχικής οθόνης</string>
+    <string name="preferences_interface_homescreen_scrolling_fade_adjacent_screens_title">Απόσβεση ολισθαίνων σελίδων</string>
+    <string name="preferences_interface_homescreen_scrolling_fade_adjacent_screens_summary">Οι σελίδες ξεθωριάζουν κατά την κύλιση</string>
+    <string name="preferences_interface_drawer_scrolling_category">Κύλιση</string>
+    <string name="preferences_interface_drawer_scrolling_transition_effect_title">Εφέ μετάβασης</string>
+    <string name="preferences_interface_drawer_scrolling_transition_effect_summary">Εφέ μετάβασης σελίδων</string>
+    <string name="preferences_interface_drawer_scrolling_fade_adjacent_screens_summary">Οι σελίδες ξεθωριάζουν κατά την κύλιση</string>
+    <string name="preferences_interface_homescreen_indicator_background_title">Εμφάνιση διαχωριστικού αποβάθρας</string>
+    <string name="preferences_interface_homescreen_indicator_background_summary">Εμφάνιση του φόντου πίσω από το δείκτη</string>
+    <string name="application_copyright">Πνευματικά δικαιώματα \u00A9 CyanogenMod 2012</string>
 </resources>
